@@ -7,6 +7,15 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+### Added
+
+- Answer "Should you ever rewrite a change log?".
+
+### Changed
+
+- Improve argument against commit logs.
+- Start following [SemVer](https://semver.org) properly.
+
 ## [1.1.0] - 2019-02-15
 
 ### Added
